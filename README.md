@@ -105,13 +105,15 @@ fun_fact: "I enjoy building projects and learning new technologies"
 
 ## 📊 GitHub Stats
 
+
 <div align="center">
 
 <img src="https://github-readme-stats.shion.dev/api?username=code-Kartik-Rathore&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=06B6D4&icon_color=8B5CF6&text_color=FFFFFF&rank_icon=github" alt="GitHub Stats" width="48%"/>
 <img src="https://streak-stats.demolab.com/?user=code-Kartik-Rathore&hide_border=true&background=0D1117&ring=06B6D4&fire=8B5CF6&currStreakLabel=06B6D4&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=9CA3AF&dates=9CA3AF" alt="GitHub Streak" width="48%"/>
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=code-Kartik-Rathore&layout=compact&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=06B6D4&text_color=FFFFFF&langs_count=8" alt="Top Languages" width="48%"/>
-<img src="https://github-profile-trophy.vercel.app/?username=code-Kartik-Rathore&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=3&margin-w=8&margin-h=8" alt="Trophies" width="48%"/>
+<br/>
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=code-Kartik-Rathore&layout=compact&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=06B6D4&text_color=FFFFFF&langs_count=8" alt="Top Languages" width="60%"/>
 
 <br/><br/>
 
