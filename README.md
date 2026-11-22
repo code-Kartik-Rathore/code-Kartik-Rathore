@@ -17,8 +17,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&width=650&lines=Building+Full-Stack+%26+AI-powered+applications; Exploring+LangChain%2C+LangGraph%2C+RAG+%26+Agentic+AI; Diving+deep+into+System+Design+%26+Scalable+Systems;Always+shipping+projects+%26+learning+new+tech+%F0%9F%9A%80" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&width=800&lines=Building+Full-Stack+%26+AI-powered+applications;Exploring+LangChain%2C+LangGraph%2C+RAG+%26+Agentic+AI;Diving+deep+into+System+Design+%26+Scalable+Systems;Always+shipping+projects+%26+learning+new+tech+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <br/>
